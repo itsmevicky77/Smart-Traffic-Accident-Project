@@ -1,0 +1,32 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# MLflow
+mlruns/
+
+# Data
+data/processed/
+eda_reports/
+
+# Feast
+*.db
+registry.db
+online_store.db
+
+# Models (optional)
+models/*.pkl
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
