@@ -5,3 +5,8 @@ mlruns
 eda_reports
 .git
 .gitignore
+.venv/
+mlruns/
+registry.db
+online_store.db
+__pycache__/
