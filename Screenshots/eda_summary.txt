@@ -1,0 +1,43 @@
+Dataset Shape: (2013, 33)
+
+Missing Values:
+location_id                  0
+timestamp                    0
+state                        0
+road_type                    0
+lane_count                   0
+speed_limit_kmph             0
+has_signal                   0
+enforcement_level            0
+blackspot_score              0
+latitude                     0
+longitude                    0
+season                       0
+day_of_week                  0
+hour_of_day                  0
+lighting                     0
+weather                      0
+is_peak                      0
+vehicle_count_per_hr         0
+avg_speed_kmph               0
+peak                         0
+traffic_data_quality_flag    0
+signal_status                0
+green_duration_s             0
+red_duration_s               0
+yellow_duration_s            0
+cycle_time_s                 0
+violations_count             0
+signal_data_quality_flag     0
+accident_occurred            0
+severity                     0
+vehicles_involved            0
+cause                        0
+veh_count_at_accident        0
+dtype: int64
+
+Target Distribution:
+accident_occurred
+False    1920
+True       93
+Name: count, dtype: int64
