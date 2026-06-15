@@ -214,6 +214,26 @@ docker run -p 8000:8000 traffic-accident-predictor
 
 ---
 
+## Screenshots
+
+### MLflow Tracking
+
+![MLflow](Screenshots/ML_Flow.png)
+
+### FastAPI Swagger
+
+![FastAPI](Screenshots/FastAPI.png)
+
+### Feast Feature Store
+
+![Feast](Screenshots/Feast_feature_store.png)
+
+### Docker Deployment
+
+![Docker](Screenshots/Docker.png)
+
+---
+
 ## 👨‍💻 Author
 
 Vignesh Narayanan
