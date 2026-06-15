@@ -218,7 +218,7 @@ docker run -p 8000:8000 traffic-accident-predictor
 
 ### MLflow Tracking
 
-![MLflow](Screenshots/ML_Flow.png)
+![MLflow](Screenshots/mlflow_ui.png)
 
 ### FastAPI Swagger
 
